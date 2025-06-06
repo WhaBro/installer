@@ -1,5 +1,5 @@
 ## Virus Check ##
-[https://www.virustotal.com/gui/file/c2c54ff5da3584ebab7805bfe3e7b146b5ae6d98cb0858b8f766b8caea8a3e29]([https://example.com](https://www.virustotal.com/gui/file/c2c54ff5da3584ebab7805bfe3e7b146b5ae6d98cb0858b8f766b8caea8a3e29)){:target="_blank"}
+https://www.virustotal.com/gui/file/c2c54ff5da3584ebab7805bfe3e7b146b5ae6d98cb0858b8f766b8caea8a3e29
 ## Running an Unsigned Installer on Windows
 
 When you attempt to launch an unsigned installer, Windows SmartScreen may show a warning dialog titled **“Windows protected your PC”** (or “Windows SmartScreen prevented an unrecognized app from starting”). Follow these steps to bypass the warning safely:
